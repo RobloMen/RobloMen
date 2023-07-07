@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobloMen
 - 👀 I’m create a OS in C#, Asm and Python
-- ❤ I’m createa games in Roblox from Lua
+- ❤ I’m create a games in Roblox from Lua
 - 💞️ I’m looking to collaborate on ...
 - 
 <!---
